@@ -1,4 +1,4 @@
-module faceCrop
+module github.com/leorighi/faceCrop
 
 go 1.20
 
